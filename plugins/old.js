@@ -67,7 +67,7 @@ const menu = async (m, Matrix) => {
   const validCommands = ['professeur', 'menu', 'bot'];
 
   if (validCommands.includes(cmd)) {
-    const str = `╭∘━━➤ *𝐇𝐀𝐈𝐊𝐎-𝐌𝐃𝐗-𝐕𝟐*
+    const str = `╭∘━━➤ *𝐇𝐀𝐈𝐊𝐎-𝐌𝐃𝐗-𝐕𝟏*
 ┃╭•─────────────⊷
 ┃│❍ *ᴜsᴇʀ* : *${m.pushName}*
 ┃│❍ *ᴍᴏᴅᴇ* : *${mode}*
